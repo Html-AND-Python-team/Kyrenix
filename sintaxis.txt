@@ -1,0 +1,7 @@
+print<text>
+
+var<variable_name>{value}{type, str, int, etc...}
+
+if<variable/número/texto>{condición (<5)}{si True}{si False}
+
+prompt<nombre variable>{pregunta}{tipo de respuesta, str, int, bool}
